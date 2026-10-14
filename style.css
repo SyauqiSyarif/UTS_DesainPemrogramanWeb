@@ -28,4 +28,16 @@ header {
     height: 610;
     width: min-content;
 }
+
+.css {
+    border-style: solid;
+    width: 400
+    ;
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(29, 40, 50);
+    color: aliceblue;
+}
   
