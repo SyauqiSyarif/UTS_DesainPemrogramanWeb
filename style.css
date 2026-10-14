@@ -1,17 +1,31 @@
 body {
     font-family: Arial, Helvetica, sans-serif;
-
+    background-color: gainsboro;
 }
 
 header {
     padding: 20px;
     box-sizing: border-box;
-    background-color: rgb(182, 166, 96);
-    color: aliceblue;
+    background-color: rgb(29, 40, 50);
 }
 
-.
+.nama {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+
 
 .python{
-    color: aqua;
+    border-style: solid;
+    height: 520;
+    width: min-content;
 }
+
+.html{
+    border-style: solid;
+    height: 610;
+    width: min-content;
+}
+  
